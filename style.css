@@ -5,7 +5,7 @@
 }
 
 body {
-  displau:flex;
+  display:flex;
   flex-direction: column;
   min-height: 100vh;
   font-family: Arial, sans-serif;
